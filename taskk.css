@@ -1,0 +1,21 @@
+.speaker {
+  color: #f45642;
+  font-family: 'Lato', sans-serif;
+  font-size: 200%;
+}
+
+h1{
+	color: #f45c42;
+	font-family: helvetica;
+	font-size:300%;
+}
+
+@import url(https://fonts.googleapis.com/css?family=Advent+Pro:100);
+html { 
+  background:  url(https://media.giphy.com/media/59Xlb3zHsQJ5m/giphy.gif) no-repeat center center fixed; 
+  background-size: cover;
+}
+
+body {
+    height: 100%;
+}
